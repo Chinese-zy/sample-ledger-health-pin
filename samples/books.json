@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "rows": [
+    {"id": "sample-1", "kind": "sample", "name": "演示账"}
+  ]
+}

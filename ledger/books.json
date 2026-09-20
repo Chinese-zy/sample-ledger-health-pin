@@ -1,7 +1,6 @@
 {
-  "version": "",
+  "version": "1.0.0",
   "rows": [
-    {"id": "sample-1", "kind": "sample", "name": "演示账"},
     {"id": "real-7", "kind": "real", "name": "门店账"}
   ]
 }
